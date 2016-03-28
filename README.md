@@ -1,2 +1,4 @@
 # riyadh_data
-Scrappers for Riyadh project
+Get data for Riyadh
+
+Python code to scrape data for Riyadh
